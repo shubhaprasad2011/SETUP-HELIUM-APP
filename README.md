@@ -15,6 +15,11 @@
     
     STEP3:  Open visual studio and sign-in with your visual studio credential.
     
-    ![image](https://cloud.githubusercontent.com/assets/27442147/25019922/0c16a714-20aa-11e7-8884-c2004b61d376.png)
+   ![alt tag](https://cloud.githubusercontent.com/assets/27442147/25019989/56e677d8-20aa-11e7-8bd0-13045a674e65.png)
+    
+    STEP 4: Connect to Team Foundation server (https://brandonstaley.visualstudio.com/Helium):
+    
+    
+    
     
 
