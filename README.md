@@ -11,6 +11,10 @@
 
     STEP 1:  Install Visual Studio 
     STEP 2:  Install latest Node.js from https://nodejs.org/en/ 
-    
-
+    ![image](https://cloud.githubusercontent.com/assets/27442147/25019892/ed5f2738-20a9-11e7-96cb-7f6a1280b202.png)
+    
+    STEP3:  Open visual studio and sign-in with your visual studio credential.
+    
+    ![image](https://cloud.githubusercontent.com/assets/27442147/25019922/0c16a714-20aa-11e7-8884-c2004b61d376.png)
+    
 
