@@ -19,8 +19,9 @@
     
     STEP 4: Connect to Team Foundation server (https://brandonstaley.visualstudio.com/Helium):
     
-    ![alt tag](https://cloud.githubusercontent.com/assets/27442147/25020321/7a47fd0e-20ab-11e7-8fa2-7ff587a5fe53.png)
-
+    ![image](https://cloud.githubusercontent.com/assets/27442147/25046354/9c47f5c8-214e-11e7-9876-f21aaf2ea464.png)
+    
+    
     
     
 
