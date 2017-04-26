@@ -1,2 +1,11 @@
 * How to requset for code review and do check-in *
 
+  step 1: After do the changes open your VS go to Team Explorer.
+  step 2: Connect to Team Foundation Server > Select Team Projects > Servers.
+  step 3: Add your Team Services account like: ({youraccount}.visualstudio.com
+  step 4: Select the team project : Helium
+  
+  ![image](https://cloud.githubusercontent.com/assets/27442147/25413877/5f5f844a-2a4b-11e7-9b70-9767c90364ad.png)
+  
+	
+  
